@@ -24,3 +24,8 @@ Anyone is welcome to add an item to the agenda as long as it follows these guide
 
 Protocol developers, researchers and CIP authors are invited to attend the meetings.
 
+## Previous Meetings
+
+| #   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
+| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 1 | May 17, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/1) | [notes](Meetings/meeting_1.md) | N/A
