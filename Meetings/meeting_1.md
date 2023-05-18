@@ -24,7 +24,7 @@
   - Plan is to regroup in mid/late June to review everyones audit findings.
   - Before the next meeting, Hyung will share documentation on an audit process to help coordinate the audit between B-Harvest, Plex, & Zak.
 
-### Liquid Staking:
+### Liquid Staking (https://github.com/b-harvest/Canto/tree/liquidstaking-module-production1)
   - Scott suggested adding a dynamic fee rate based on utlization. Will share the design decisions soon. This change will take add an additional 2-3 weeks to the schedule.
 
 ### Additional:
