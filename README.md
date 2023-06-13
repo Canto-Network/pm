@@ -8,7 +8,6 @@ This repository is used for project management for various initiatives affecting
 
 CPIC holds a bi-weekly meeting for the Canto development community to discuss technical issues and coordinate work on the Canto protocol. The meetings are attended by core contributors from various organizations. During the call, participants discuss potential protocol changes, testing and other related issues. 
 
-The calls are saved on the [@CantoProtocol YouTube channel](https://www.youtube.com/@CantoProtocol). 
 
 ### Agendas
 
