@@ -25,7 +25,8 @@ Protocol developers, researchers and CIP authors are invited to attend the meeti
 
 ## Previous Meetings
 
-| #   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
-| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| 1 | May 17, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/1) | [notes](Meetings/meeting_1.md) | N/A
-| 2 | May 31, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/2) | [notes](Meetings/meeting_2.md) | N/A
+| #   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | 
+| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 | May 17, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/1) | [notes](Meetings/meeting_1.md)
+| 2 | May 31, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/2) | [notes](Meetings/meeting_2.md)
+| 3 | June 14, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/3) | [notes](Meetings/meeting_3.md)
