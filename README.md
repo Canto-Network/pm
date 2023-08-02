@@ -32,3 +32,4 @@ Protocol developers, researchers and CIP authors are invited to attend the meeti
 | 3 | June 14, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/3) | [notes](Meetings/meeting_3.md)
 | 4 | June 28, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/4) | [notes](Meetings/meeting_4.md)
 | 5 | Jul 12, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/5) | [notes](Meetings/meeting_5.md)
+| 6 | Jul 26, 2023, 11:00-11:30 UTC       | [agenda](https://github.com/Canto-Network/pm/issues/6) | N/A
